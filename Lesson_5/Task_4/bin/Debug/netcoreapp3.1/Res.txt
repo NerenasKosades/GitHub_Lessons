@@ -1,0 +1,6 @@
+ФАЙЛЫ И ПОДКАТАЛОГИ С РЕКУРССИЕЙ
+
+D:\ExampleDir\Example_Folder\Example_File.txt
+D:\ExampleDir\Example_Folder
+D:\ExampleDir\File_1.txt
+D:\ExampleDir\File_2_res.txt

@@ -1,0 +1,13 @@
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).exe
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).deps.json
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).runtimeconfig.json
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).runtimeconfig.dev.json
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).dll
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\bin\Debug\netcoreapp3.1\Task_4(No recursion).pdb
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).csprojAssemblyReference.cache
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).AssemblyInfoInputs.cache
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).AssemblyInfo.cs
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).csproj.CoreCompileInputs.cache
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).dll
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).pdb
+E:\Учеба\Programming\Lesson_5\Task_4(No recursion)\obj\Debug\netcoreapp3.1\Task_4(No recursion).genruntimeconfig.cache
