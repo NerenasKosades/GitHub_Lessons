@@ -1,0 +1,13 @@
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.csprojAssemblyReference.cache
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfoInputs.cache
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.AssemblyInfo.cs
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.csproj.CoreCompileInputs.cache
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.exe
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.deps.json
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.json
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.runtimeconfig.dev.json
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.dll
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\bin\Debug\netcoreapp3.1\Task_2.pdb
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.dll
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.pdb
+E:\Учеба\Programming\Pronishchev_repo\Lesson_3\Task_1\Task_2\obj\Debug\netcoreapp3.1\Task_2.genruntimeconfig.cache
