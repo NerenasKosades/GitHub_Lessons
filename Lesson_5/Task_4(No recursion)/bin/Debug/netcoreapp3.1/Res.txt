@@ -1,0 +1,8 @@
+ФАЙЛЫ И ПОДКАТАЛОГИ БЕЗ РЕКУРСИИ
+
+Подкаталоги: 
+D:\ExampleDir\Example_Folder
+
+Файлы: 
+D:\ExampleDir\File_1.txt
+D:\ExampleDir\File_2_res.txt
