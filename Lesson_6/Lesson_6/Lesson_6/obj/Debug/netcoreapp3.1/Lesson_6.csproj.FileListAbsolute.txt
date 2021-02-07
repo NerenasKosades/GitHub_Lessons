@@ -1,0 +1,13 @@
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.exe
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.deps.json
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.runtimeconfig.json
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.runtimeconfig.dev.json
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.dll
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\bin\Debug\netcoreapp3.1\Lesson_6.pdb
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.csprojAssemblyReference.cache
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.AssemblyInfoInputs.cache
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.AssemblyInfo.cs
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.csproj.CoreCompileInputs.cache
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.dll
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.pdb
+E:\Учеба\Programming\Lesson_6\Lesson_6\Lesson_6\obj\Debug\netcoreapp3.1\Lesson_6.genruntimeconfig.cache
