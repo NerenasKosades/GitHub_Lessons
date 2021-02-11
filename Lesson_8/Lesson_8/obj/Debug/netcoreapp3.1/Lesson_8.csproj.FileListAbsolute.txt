@@ -1,0 +1,6 @@
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.csprojAssemblyReference.cache
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.Properties.Resources.resources
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.csproj.GenerateResource.cache
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.AssemblyInfoInputs.cache
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.AssemblyInfo.cs
+E:\Учеба\Programming\Lesson_8\Lesson_8\obj\Debug\netcoreapp3.1\Lesson_8.csproj.CoreCompileInputs.cache
